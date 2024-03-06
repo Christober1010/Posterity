@@ -1,0 +1,97 @@
+.nav ul, .nav li{
+	display:flex;
+}
+.nav h1{
+	font-weight:900;
+}
+.nav ul{
+	margin-left:30%;
+}
+.nav li{
+	margin-left:20px;
+}
+.box1{
+	background:url(subrise.jpg);
+	background-size:cover;
+	height:500px;
+}
+.heading h1{
+	font-weight:900;
+	font-size:100px;
+	text-shadow:5px 5px 10px black;
+}
+.sub-head h1{
+	font-weight:900;
+}
+.sub-head h5{
+	font-weight:900;
+	color:yellow;
+	font-size:30px;
+}
+.container{
+	box-shadow:10px 10px 20px black;
+}
+.box2 h3{
+	font-weight:900;
+}
+.hey {
+	box-shadow:5px 5px 10px black;
+	border-radius:10px;
+	margin:10px;
+	background-color:black;
+	padding:10px;
+}
+.des1{
+	background-color:black;
+	padding:10px;
+}
+.des2{
+	background-color:orange;
+	padding:10px;
+	color:black;
+}
+.box3 h2{
+	font-weight:900;
+}
+.box3 h4{
+	font-weight:800;
+	color:yellow;
+}
+.box6 h1{
+	font-weight:900;
+	width:70%;
+}
+.box7 h1{
+	font-weight:900;
+}
+.box7 h5{
+	color:yellow;
+}
+.box7 h2{
+	color:orange;
+}
+.box8{
+	background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+}
+.box9 h1{
+	font-weight:900;
+}
+.box9 h5{
+	color:black;
+	font-weight:800;
+}
+.box10 h1{
+	font-weight:900;
+}
+.box10 h5{
+	color:yellow;
+}
+.box11 h1{
+	font-weight:900;
+}
+.box4 h1{
+	font-weight:900;
+}
+.box4 h5{
+	color:yellow;
+}
